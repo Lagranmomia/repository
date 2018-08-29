@@ -33,7 +33,7 @@
   </extension>
 </addon>
 
-<addon id="repository.mongolia" name="[COLOR lime]mongolia[/COLOR] Repo" version="1.0.1" provider-name="momia">
+<addon id="repository.Mongolia" name="[COLOR lime]Mongolia[/COLOR] Repo" version="1.0.1" provider-name="Momia">
     <extension point="xbmc.addon.repository" name="Mi repositorio">
         <info>https://raw.githubusercontent.com/Lagranmomia/repository/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/Lagranmomia/repository/master/Repositorio/addons.xml.md5</checksum>
